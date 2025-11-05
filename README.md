@@ -4,7 +4,7 @@ cub3D est un projet du cursus 42.
 Le but est de créer un **jeu en 3D type Wolfenstein**, avec un moteur de rendu simple basé sur le raycasting.
 
 ## Compilation
-
+ 
 ```bash
 make
 ```
